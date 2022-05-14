@@ -1,3 +1,4 @@
+![IMG_2792 2](https://user-images.githubusercontent.com/77685850/168439097-2407c321-c342-4e26-b017-3bfb2f069327.jpg)
 Introduction:
 
 The Lost Recipe is a multiplayer game composed of 3 levels each one representing different types of games.
